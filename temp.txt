@@ -1,0 +1,1 @@
+Read and understand the document intelligence plan outline and come up with an implementation plan.  Consider the pages with drawings and images as part of the data from the sample documents.  I have LMStudio running locally. IP address will be provided after you create the initial plan. I want you to start with testing some different samples directly from the terminal
